@@ -1,20 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="91a8992b-d25c-4794-94b0-0ee371e27ac1" name="Changes" comment="Criação do Projeto Cinema" />
+    <list default="true" id="91a8992b-d25c-4794-94b0-0ee371e27ac1" name="Changes" comment="Criação do Projeto Cinema">
+      <change afterPath="$PROJECT_DIR$/src/br/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/model/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/model/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/model/Ingresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/model/Sala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/model/Sessao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gvicentte"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gvicentte/ProjetoCinema.git",
+    "accountId": "b087746e-1357-43c7-bb38-e84c9d95daad"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="31wBawCp7PycDrEPUQqq5kXlhSF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +52,9 @@
   "keyToString": {
     "Application.Main.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/20241002803215/IdeaProjects/ProjetoCinema/src/Main.java",
     "settings.editor.selected.configurable": "preferences.keymap"
