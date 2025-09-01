@@ -7,7 +7,7 @@ public class Ingresso {
     private Enum tipoingresso;
     private float valoringresso;
     private Filme filme;
-    private Sesao sesao;
+    private Sessao sessao;
     private Date horario;
     private Sala sala;
     private String assento;
@@ -15,12 +15,12 @@ public class Ingresso {
     public Ingresso() {
     }
 
-    public Ingresso(long id, Enum tipoingresso, float valoringresso, Filme filme, Sesao sesao, Date horario, Sala sala, String assento) {
+    public Ingresso(long id, Enum tipoingresso, float valoringresso, Filme filme, Sessao sessao, Date horario, Sala sala, String assento) {
         this.id = id;
         this.tipoingresso = tipoingresso;
         this.valoringresso = valoringresso;
         this.filme = filme;
-        this.sesao = sesao;
+        this.sessao = sessao;
         this.horario = horario;
         this.sala = sala;
         this.assento = assento;
@@ -58,12 +58,12 @@ public class Ingresso {
         this.filme = filme;
     }
 
-    public Sesao getSesao() {
-        return sesao;
+    public Sessao getSessao() {
+        return sessao;
     }
 
-    public void setSesao(Sesao sesao) {
-        this.sesao = sesao;
+    public void setSessao(Sessao sessao) {
+        this.sessao = sessao;
     }
 
     public Date getHorario() {
